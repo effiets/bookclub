@@ -29,17 +29,20 @@ A full stack (MERN) app
 
 ### FrontEnd
 
-HTML
-CSS
-JavaScript
-React
-React Router
+* HTML
+* CSS
+* JavaScript
+* React
+* React Router
 
 ### BackEnd
 
-NodeJS
-Express
-Mongoose
+* NodeJS
+* Express
+* Mongoose
+
+### Dependencies
+bcrypt, cookie-parser, cors, jsonwebtoken, multer, nodemailer
 
 ### DataBase
 MongoDB
